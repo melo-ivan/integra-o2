@@ -1,0 +1,22 @@
+# Ignora arquivos do banco de dados SQLite
+*.db
+
+# Ignora arquivos de cache e compilação do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora arquivos de logs
+*.log
+
+# Ignora arquivos do Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignora arquivos e diretórios específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora ambiente virtual do Python
+venv/
+.env/
